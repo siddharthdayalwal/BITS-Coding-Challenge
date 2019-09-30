@@ -1,0 +1,2 @@
+# BITS-Coding-Challenge
+BITS - Coding Challenge is an exclusive event for quick coders who love competitive coding and love it even more when there is a timer running. This coding challenge contest will help you in optimizing your code, which is an essential quality of a good program.  BITS - Coding Challenge has  4 programming questions and all you have got is 120 minutes (2 hours) to win. Get ready to whack your keyboards on 29th September 2019, Sunday at 03:00 PM IST.
