@@ -1,5 +1,4 @@
 
-
 //  Guess the output
 
 
@@ -13,4 +12,10 @@
     int a=20;
 
 
-// 
+// Answer is  :  20
+
+
+
+
+
+//                  //
