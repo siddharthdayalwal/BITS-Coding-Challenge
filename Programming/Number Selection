@@ -1,0 +1,31 @@
+
+//  You are given an array of N distinct elements numbered from 1 to N. You need to draw some elements from this array such that no two consecutive elements are drawn.
+
+Write a program to find the total number of distinct ways of drawing the elements from this array.
+
+Since the number can be huge hence print answer modulo .
+
+Input format
+
+First line: T (Number of test cases)
+Next T lines: N
+
+Output format
+
+For each test case, print the total number of distinct ways of drawing the elements from the array modulo 10^9 + 7.
+
+Constraints
+
+1 <= T <= 10^3
+1 <= N <= 10^9
+
+Sample Input : 
+2
+1
+4
+
+Sample Output : 
+1
+7
+
+//
