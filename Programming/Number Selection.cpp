@@ -1,5 +1,5 @@
 
-//  
+/*  
 You are given an array of N distinct elements numbered from 1 to N. 
 You need to draw some elements from this array such that no two consecutive elements are drawn.
 
@@ -30,135 +30,9 @@ Sample Output :
   1
   7
 
-//
+Below is the solution for this problem statement in C++
 
- Dashboard
- Tests
- My library
- Settings
-BITS EDU CAMPUS|
-Tests
-BITS - Coding Challenge !!Completed | Invite-only Test (Make public) | Preview Test 
-CANDIDATESTest taken 107Review pending 102Invited 146ANALYTICSOverviewQuestions reportCandidates feedbackTEST DETAILSBasic detailsQuestionsTest settingsEmail templatesDeleteClone
-Multiple Choice Questions+Add a section
-1
-What is the output of the following C code:
-
-    #include<stdio.h>
-    #define CUBE(x) (x*x*x)
-    int main()
-    {
-        int a, b=4;
-        a = ...
-Operator C Hard
-6
-7/10
-2
-What is the output of the following C code snippet:
-
-    int main()
-    {
-        extern int a;
-        printf("%d\n", a);
-        return 0;
-    }
-
-   ...
-C Medium Keyword
-4
-7/10
-+Add multiple-choice question|Choose from Library
-Subjective Questions+Add a section
-+Add subjective question
-Programming Questions+Add a section
-3
-Number selection
-Mathematics Basic Math Hard Modular arithmetic
-100
-10/10
-4
-Special box
-Hard Algorithms
-100
-10/10
-5
-A problem on GCD
-Math Basic Greatest common divisor Basic Math Easy Mathematics Math
-20
-7/10
-6
-Subarray of prime numbers<Debugging - C,C++,C++14,Java,Java8>
-Arrays Debugging Easy Data Structures
-20
-7/10
-+Add programming question|Choose from Library
-Frontend Questions+Add a section
-+Add frontend question
-File Upload Questions+Add a section
-+Add file upload question
-SQL Questions
-You currently do not have access to this assessment type.Learn More
-Machine Learning Questions+Add a section
-+Add machine-learning question
-Diagram Questions
-You currently do not have access to this assessment type.Learn More
-Java Project Questions
-You currently do not have access to this assessment type.Learn More
-Total Score250
-Problem Name
-Number selection
-Problem Statement
-
-Difficulty level
-
-Problem Editorial (Visible only after contest is moved to practice area)
-
-Sample Input(.txt)View File
-Sample Output(.txt)View File
-Correct Answer View File
-Sample Explanation
-
-Allowed Languages
- Select all
- Bash  C  C++  C++14  Clojure  C#  D  Erlang  F#  Go  Groovy  Haskell  Java  Java 8  JavaScript(Rhino)  JavaScript(Node.js)  Julia  Kotlin  Lisp  Lisp (SBCL)  Lua  Objective-C  OCaml  Octave  Pascal  Perl  PHP  Python  Python 3  R(RScript)  Racket  Ruby  Rust  Scala  Swift  Swift-4.1  TypeScript  Visual Basic
-Edit Code checker limits
-Time Limit:
-1.0
-seconds
-(Time limit is for each input file. Max 10 seconds)
-+Show Advanced Code-checker Settings
-Max. Marks
-100.0
-Input/Output Files
-Input & Output Files are used to evaluate the code submissions. Set marks for each of the input/output file uploaded here. Read how code submissions are evaluated .
-Input	Output	
-input-1.txt	output-1.txt
-input-2.txt	output-2.txt
-input-3.txt	output-3.txt
-input-4.txt	output-4.txt
-input-5.txt	output-5.txt
-input-6.txt	output-6.txt
-input-7.txt	output-7.txt
-input-8.txt	output-8.txt
-input-9.txt	output-9.txt
-input-10.txt	output-10.txt
-+Add input file
-+Add output file
-Upload Multiple Test Cases
-Please upload zip/tar files containing input files named as in00.txt|bin, in01.txt|bin etc and output files named as out00.txt|bin, out01.txt|bin etc.
-Upload
-Tags
-Grammar-Verified×Modular arithmetic×Hard×Basic Math×Grammar-Verified×Mathematics×
- Show this problem in the test
- Lock submission to this problem
-Code Snippets
-Show all code Snippets 
-Embed problem on your page
-Embed problem on your custom page using this embeddable code
-Upgrade your subscription plan to access this feature.Upgrade
-Try Question 
-
-
+*/
 
 
 #include <bits/stdc++.h>
